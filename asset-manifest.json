@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/canonshuttershots-people/static/css/main.eb8f07ee.chunk.css",
-    "main.js": "/canonshuttershots-people/static/js/main.ba057323.chunk.js",
-    "main.js.map": "/canonshuttershots-people/static/js/main.ba057323.chunk.js.map",
+    "main.js": "/canonshuttershots-people/static/js/main.6a1fc3f8.chunk.js",
+    "main.js.map": "/canonshuttershots-people/static/js/main.6a1fc3f8.chunk.js.map",
     "runtime-main.js": "/canonshuttershots-people/static/js/runtime-main.256e3452.js",
     "runtime-main.js.map": "/canonshuttershots-people/static/js/runtime-main.256e3452.js.map",
     "static/css/2.ec02d681.chunk.css": "/canonshuttershots-people/static/css/2.ec02d681.chunk.css",
-    "static/js/2.0e629303.chunk.js": "/canonshuttershots-people/static/js/2.0e629303.chunk.js",
-    "static/js/2.0e629303.chunk.js.map": "/canonshuttershots-people/static/js/2.0e629303.chunk.js.map",
+    "static/js/2.d836c38a.chunk.js": "/canonshuttershots-people/static/js/2.d836c38a.chunk.js",
+    "static/js/2.d836c38a.chunk.js.map": "/canonshuttershots-people/static/js/2.d836c38a.chunk.js.map",
     "static/js/3.cfde389d.chunk.js": "/canonshuttershots-people/static/js/3.cfde389d.chunk.js",
     "static/js/3.cfde389d.chunk.js.map": "/canonshuttershots-people/static/js/3.cfde389d.chunk.js.map",
     "index.html": "/canonshuttershots-people/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/canonshuttershots-people/static/css/2.ec02d681.chunk.css.map",
     "static/css/main.eb8f07ee.chunk.css.map": "/canonshuttershots-people/static/css/main.eb8f07ee.chunk.css.map",
-    "static/js/2.0e629303.chunk.js.LICENSE.txt": "/canonshuttershots-people/static/js/2.0e629303.chunk.js.LICENSE.txt",
+    "static/js/2.d836c38a.chunk.js.LICENSE.txt": "/canonshuttershots-people/static/js/2.d836c38a.chunk.js.LICENSE.txt",
     "static/media/people.c966df0c.jpeg": "/canonshuttershots-people/static/media/people.c966df0c.jpeg",
     "static/media/pp1.6d789cb7.jpeg": "/canonshuttershots-people/static/media/pp1.6d789cb7.jpeg",
     "static/media/pp10.ea9db302.jpeg": "/canonshuttershots-people/static/media/pp10.ea9db302.jpeg",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.256e3452.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.0e629303.chunk.js",
+    "static/js/2.d836c38a.chunk.js",
     "static/css/main.eb8f07ee.chunk.css",
-    "static/js/main.ba057323.chunk.js"
+    "static/js/main.6a1fc3f8.chunk.js"
   ]
 }
