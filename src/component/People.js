@@ -23,25 +23,6 @@ import pp16 from '../images/people/pp16.jpeg';
 import pp17 from '../images/people/pp17.jpeg';
 
 export default function People(){
-    const [isLoading, setLoading] = useState(true);
-
-  function fakeRequest() {
-    return new Promise(resolve => setTimeout(() => resolve(), 2500));
-  }
-  useEffect(() => {
-    fakeRequest().then(() => {
-      const el = document.querySelector(".loader-container");
-      if (el) {
-        el.remove();
-        setLoading(!isLoading);
-      }
-    });
-  }, []);
-
-  if (isLoading) {
-    return null;
-  }
-
     return(
         <div>
             <Sidebar/>
