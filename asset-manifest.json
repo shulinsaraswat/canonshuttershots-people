@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/canonshuttershots-people/static/css/main.1d3a97d3.chunk.css",
-    "main.js": "/canonshuttershots-people/static/js/main.ea36795c.chunk.js",
-    "main.js.map": "/canonshuttershots-people/static/js/main.ea36795c.chunk.js.map",
+    "main.css": "/canonshuttershots-people/static/css/main.3dfa2cae.chunk.css",
+    "main.js": "/canonshuttershots-people/static/js/main.028b0c25.chunk.js",
+    "main.js.map": "/canonshuttershots-people/static/js/main.028b0c25.chunk.js.map",
     "runtime-main.js": "/canonshuttershots-people/static/js/runtime-main.256e3452.js",
     "runtime-main.js.map": "/canonshuttershots-people/static/js/runtime-main.256e3452.js.map",
     "static/css/2.ec02d681.chunk.css": "/canonshuttershots-people/static/css/2.ec02d681.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.cfde389d.chunk.js.map": "/canonshuttershots-people/static/js/3.cfde389d.chunk.js.map",
     "index.html": "/canonshuttershots-people/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/canonshuttershots-people/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.1d3a97d3.chunk.css.map": "/canonshuttershots-people/static/css/main.1d3a97d3.chunk.css.map",
+    "static/css/main.3dfa2cae.chunk.css.map": "/canonshuttershots-people/static/css/main.3dfa2cae.chunk.css.map",
     "static/js/2.d836c38a.chunk.js.LICENSE.txt": "/canonshuttershots-people/static/js/2.d836c38a.chunk.js.LICENSE.txt",
     "static/media/people.c966df0c.jpeg": "/canonshuttershots-people/static/media/people.c966df0c.jpeg",
     "static/media/pp1.6d789cb7.jpeg": "/canonshuttershots-people/static/media/pp1.6d789cb7.jpeg",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.256e3452.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.d836c38a.chunk.js",
-    "static/css/main.1d3a97d3.chunk.css",
-    "static/js/main.ea36795c.chunk.js"
+    "static/css/main.3dfa2cae.chunk.css",
+    "static/js/main.028b0c25.chunk.js"
   ]
 }
