@@ -46,7 +46,7 @@ export default function People(){
             <div className="container"><br/>
             <div className="row row-cols-1 row-cols-md-3 body-pp">
                 <div className="col mb-4">
-                    <div className="card box-wl">
+                    <div className="card box-pp">
                     <img src={pp1} className="card-img-top" alt="People1"/>
                     </div>
                 </div>
