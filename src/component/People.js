@@ -46,89 +46,191 @@ export default function People(){
             <div className="container"><br/>
             <div className="row row-cols-1 row-cols-md-3 body-pp">
                 <div className="col mb-4">
-                    <div className="card box-pp">
+                    <div className="card box-pp hovereffect">
                     <img src={pp1} className="card-img-top" alt="People1"/>
+                    <div class="overlay">
+                        <h2>Vellore, India</h2>
+                        <p>
+                            <span>Quary<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp">
+                    <div className="card box-pp hovereffect">
                     <img src={pp2} className="card-img-top" alt="People2"/>
+                    <div class="overlay">
+                        <h2>Goa, India</h2>
+                        <p>
+                            <span>Vagator Beach<br/>Canon 650D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp">
+                    <div className="card box-pp hovereffect">
                     <img src={pp3} className="card-img-top" alt="People3"/>
+                    <div class="overlay">
+                        <h2>Goa, India</h2>
+                        <p>
+                            <span>Aguada Fort<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp4">
+                    <div className="card box-pp pp4 hovereffect">
                     <img src={pp4} className="card-img-top" alt="People4"/>
+                    <div class="overlay">
+                        <h2>Vellore, India</h2>
+                        <p>
+                            <span>Quary Beach<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp">
+                    <div className="card box-pp hovereffect">
                     <img src={people} className="card-img-top" alt="People5"/>
+                    <div class="overlay">
+                        <h2>Goa, India</h2>
+                        <p>
+                            <span>Aguada Fort<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp6">
+                    <div className="card box-pp pp6 hovereffect">
                     <img src={pp6} className="card-img-top" alt="People16"/>
+                    <div class="overlay">
+                        <h2>Mount Abu, India</h2>
+                        <p>
+                            <span>Toad Rock<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp13">
+                    <div className="card box-pp pp13 hovereffect">
                     <img src={pp13} className="card-img-top" alt="People7"/>
+                    <div class="overlay">
+                        <h2>Vellore, India</h2>
+                        <p>
+                            <span>Quary<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp">
+                    <div className="card box-pp hovereffect">
                     <img src={pp8} className="card-img-top" alt="People8"/>
+                    <div class="overlay">
+                        <h2>Bangalore, India</h2>
+                        <p>
+                            <span>Social Cafe<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp9">
+                    <div className="card box-pp pp9 hovereffect">
                     <img src={pp9} className="card-img-top" alt="People9"/>
+                    <div class="overlay">
+                        <h2>Goa, India</h2>
+                        <p>
+                            <span>Vagator Beach<br/>Canon 650D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp10">
+                    <div className="card box-pp pp10 hovereffect">
                     <img src={pp10} className="card-img-top" alt="People10"/>
+                    <div class="overlay">
+                        <h2>Goa, India</h2>
+                        <p>
+                            <span>Vagator Beach<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp">
+                    <div className="card box-pp hovereffect">
                     <img src={pp11} className="card-img-top" alt="People11"/>
+                    <div class="overlay">
+                        <h2>Bangalore, India</h2>
+                        <p>
+                            <span>UB City<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp12">
+                    <div className="card box-pp pp12 hovereffect">
                     <img src={pp12} className="card-img-top" alt="People12"/>
+                    <div class="overlay">
+                        <h2>Mount Abu, India</h2>
+                        <p>
+                            <span>Toad Rock<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp7">
+                    <div className="card box-pp pp7 hovereffect">
                     <img src={pp7} className="card-img-top" alt="People13"/>
+                    <div class="overlay">
+                        <h2>Mount Abu, India</h2>
+                        <p>
+                            <span>Nakki Lake<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp15">
+                    <div className="card box-pp pp15 hovereffect">
                     <img src={pp15} className="card-img-top" alt="People14"/>
+                    <div class="overlay">
+                        <h2>Goa, India</h2>
+                        <p>
+                            <span>Aguada Fort<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp14">
+                    <div className="card box-pp pp14 hovereffect">
                     <img src={pp14} className="card-img-top" alt="People15"/>
+                    <div class="overlay">
+                        <h2>Mount Abu, India</h2>
+                        <p>
+                            <span>Nakki Lake<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp17">
+                    <div className="card box-pp pp17 hovereffect">
                     <img src={pp17} className="card-img-top" alt="People16"/>
+                    <div class="overlay">
+                        <h2>Vellore, India</h2>
+                        <p>
+                            <span>VIT University<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
                 <div className="col mb-4"></div>
                 <div className="col mb-4">
-                    <div className="card box-pp pp16">
+                    <div className="card box-pp pp16 hovereffect">
                     <img src={pp16} className="card-img-top" alt="People17"/>
+                    <div class="overlay">
+                        <h2>Vellore, India</h2>
+                        <p>
+                            <span>Quary<br/>Canon 450D</span>
+                        </p>
+                    </div>
                     </div>
                 </div>
             </div>
