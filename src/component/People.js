@@ -51,7 +51,7 @@ export default function People(){
                     <div class="overlay">
                         <h2>Vellore, India</h2>
                         <p>
-                            <span>Quary<br/>Canon 450D</span>
+                            <span>Quarry Lake<br/>Canon 450D</span>
                         </p>
                     </div>
                     </div>
@@ -84,7 +84,7 @@ export default function People(){
                     <div class="overlay">
                         <h2>Vellore, India</h2>
                         <p>
-                            <span>Quary Beach<br/>Canon 450D</span>
+                            <span>Quarry Lake<br/>Canon 450D</span>
                         </p>
                     </div>
                     </div>
@@ -117,7 +117,7 @@ export default function People(){
                     <div class="overlay">
                         <h2>Vellore, India</h2>
                         <p>
-                            <span>Quary<br/>Canon 450D</span>
+                            <span>Quarry Lake<br/>Canon 450D</span>
                         </p>
                     </div>
                     </div>
@@ -228,7 +228,7 @@ export default function People(){
                     <div class="overlay">
                         <h2>Vellore, India</h2>
                         <p>
-                            <span>Quary<br/>Canon 450D</span>
+                            <span>Quarry Lake<br/>Canon 450D</span>
                         </p>
                     </div>
                     </div>
